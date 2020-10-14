@@ -1,6 +1,6 @@
 # Petit chat de discussion en ligne
 
-Fait avec React avec Firebase (stockage des messages)
+Fait en React avec Firebase (stockage des messages)
 
 Fonctionnalités ajoutées : 
 - Emoji
@@ -12,3 +12,13 @@ Fonctionnalités par encore réussies :
 ## Pour démarrer le projet :
 
 yarn start 
+
+
+Packages utilisés :
+
+- Firebase
+- Rebase
+- react-router-dom
+- moment
+- emoji-mart
+
